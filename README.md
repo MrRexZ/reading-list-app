@@ -19,7 +19,7 @@ Homepage:
 
 ## What would you do if you had more time
 Most of the time was spent learning Django and React, so some of the tasks are not complete yet.
-It has been a while since using React (1 year ago) and back then, so I wasn't able to complete most of the frontend stuffs right now on time.
+It has been a while since using React (1 year ago) and back then I wasn't using React in-depth, so I wasn't able to complete most of the frontend stuffs right now on time.
 
 1. Edit functionality for the saved book in frontend and backend
 2. Book delete functionality in frontend
