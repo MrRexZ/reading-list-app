@@ -6,7 +6,7 @@ class Book(models.Model):
     author = models.TextField()
     genre = models.TextField()
     cover_image_url = models.TextField()
-    read = models.BooleanField()
+    read = models.BooleanField(default=False)
 
     class Meta:
         constraints = [
