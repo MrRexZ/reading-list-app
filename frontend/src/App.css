@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+
+.Col {
+  /* border:1px solid white; */
+  margin-bottom: 15px;
+}
+
+
+
+.book {
+  text-align: center;
+  padding:15px;
+  background-color:teal;
+  background-color:yellowgreen;
+
+}
